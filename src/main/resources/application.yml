@@ -1,0 +1,8 @@
+server:
+  port: 9827
+  servlet:
+     context-path: '/market'
+spring.datasource:
+  url: 'jdbc:postgresql://localhost:5432/my_market'
+  username: 'geek'
+  password: 'geek'
